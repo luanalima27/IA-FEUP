@@ -1,0 +1,25 @@
+Game Mode: computer_vs_computer
+Bot Configs: [('MonteCarlo', 1), ('Minimax', 2)]
+Board Size: 5
+Winner: Player 1
+Total Time: 67.46 seconds
+Moves:
+1. Player 1 placed at cell 18, took 11.17 seconds
+2. Player 2 placed at cell 12, took 0.38 seconds
+3. Player 1 placed at cell 19, took 10.3 seconds
+4. Player 2 placed at cell 17, took 0.56 seconds
+5. Player 1 placed at cell 15, took 8.12 seconds
+6. Player 2 placed at cell 16, took 0.72 seconds
+7. Player 1 placed at cell 14, took 5.35 seconds
+8. Player 2 placed at cell 22, took 0.74 seconds
+9. Player 1 placed at cell 7, took 3.96 seconds
+10. Player 2 placed at cell 10, took 0.78 seconds
+11. Player 1 moved from cell 7 to 2, took 2.47 seconds
+12. Player 2 placed at cell 7, took 0.82 seconds
+13. Player 1 placed at cell 1, took 2.07 seconds
+14. Player 2 moved from cell 7 to 8, took 0.26 seconds
+15. Player 1 moved from cell 2 to 7, took 0.62 seconds
+16. Player 2 moved from cell 8 to 13, took 0.28 seconds
+17. Player 1 moved from cell 14 to 8, took 0.49 seconds
+18. Player 2 moved from cell 22 to 23, took 0.21 seconds
+19. Player 1 moved from cell 1 to 3, took 0.01 seconds

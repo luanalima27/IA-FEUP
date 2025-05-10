@@ -1,0 +1,16 @@
+Game Mode: human_vs_human
+Board Size: 9
+Winner: Player 1
+Total Time: 23.68 seconds
+Moves:
+1. Player 1 placed at cell 50, took 2.37 seconds
+2. Player 2 placed at cell 22, took 1.69 seconds
+3. Player 1 placed at cell 57, took 1.69 seconds
+4. Player 2 placed at cell 30, took 1.56 seconds
+5. Player 1 placed at cell 61, took 1.52 seconds
+6. Player 2 placed at cell 10, took 1.56 seconds
+7. Player 1 placed at cell 49, took 2.09 seconds
+8. Player 2 placed at cell 12, took 2.54 seconds
+9. Player 1 placed at cell 51, took 3.82 seconds
+10. Player 2 moved from cell 30 to 32, took 3.23 seconds
+11. Player 1 moved from cell 57 to 48, took 1.5 seconds

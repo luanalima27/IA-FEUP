@@ -1,0 +1,20 @@
+Game Mode: human_vs_computer
+Bot Configs: [('Minimax', 3)]
+Board Size: 5
+Winner: Player 2
+Total Time: 70.51 seconds
+Moves:
+1. Player 1 placed at cell 19, took 2.73 seconds
+2. Player 2 placed at cell 15, took 2.73 seconds
+3. Player 1 placed at cell 13, took 5.71 seconds
+4. Player 2 placed at cell 5, took 3.67 seconds
+5. Player 1 placed at cell 7, took 4.18 seconds
+6. Player 2 placed at cell 10, took 3.43 seconds
+7. Player 1 placed at cell 1, took 13.92 seconds
+8. Player 2 placed at cell 8, took 3.34 seconds
+9. Player 1 moved from cell 7 to 2, took 10.67 seconds
+10. Player 2 moved from cell 8 to 7, took 5.15 seconds
+11. Player 1 moved from cell 13 to 12, took 3.16 seconds
+12. Player 2 placed at cell 13, took 3.58 seconds
+13. Player 1 moved from cell 19 to 18, took 2.1 seconds
+14. Player 2 moved from cell 5 to 11, took 0.03 seconds
